@@ -2,7 +2,7 @@
 
 ## Target Systems Job Application Test
 
-This repository contains the solution to the coding test conducted as part of the job application process for Target Sistemas. The test involved developing a JavaScript function to reverse a given string without using any built-in methods.
+This repository contains the solution to the coding test conducted as part of the job application process for Target Sistemas. The test involved developing a JavaScript function to reverse a given string without using any built-in methods and a JavaScript function to checks if a given number belongs to the Fibonacci sequence.
 
 ## Description
 

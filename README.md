@@ -6,18 +6,23 @@ This repository contains the solution to the coding test conducted as part of th
 
 ## Description
 
-The test task required the implementation of a JavaScript function named `reverseString(str)`, which takes a string as input and returns the reversed version of the string without using any built-in string reversal functions.
+The test task required the implementation of two JavaScript functions: `reverseString(str)` and `isFibonacci(number)`.
 
-The function iterates over each character of the input string from the last character to the first character and concatenates them to build the reversed string. The solution is implemented in JavaScript.
+1. `reverseString(str)`: This function takes a string as input and returns the reversed version of the string without using any built-in string reversal functions. The function iterates over each character of the input string from the last character to the first character and concatenates them to build the reversed string. The solution is implemented in JavaScript.
+
+2. `isFibonacci(number)`: This function checks if a given number belongs to the Fibonacci sequence. It iterates over the Fibonacci sequence, generating numbers until it reaches a number greater than or equal to the input number. If the input number is found in the sequence, the function returns true; otherwise, it returns false.
 
 ## Test Completion
 
-The test was successfully completed by developing the required function and ensuring its correctness through testing with various input strings. The solution adheres to the provided requirements and does not use any built-in string reversal methods.
+The test was successfully completed by developing both required functions and ensuring their correctness through testing with various input strings and numbers. The solutions adhere to the provided requirements and do not use any built-in string reversal methods or predefined Fibonacci sequence arrays.
+
+This solution demonstrates proficiency in JavaScript programming and problem-solving skills.
+
 
 ## Repository Structure
 
 - `reverseString.js`: JavaScript file containing the implementation of the `reverseString` function.
-- `README.md`: Readme file providing instructions on how to use the `reverseString` function and describing the contents of the repository.
+- `isFibonacci`: JavaScript file containing the implementation of the `isFibonacci` function.
 
 ## Usage
 
@@ -26,3 +31,12 @@ To use the `reverseString` function, simply include the `reverseString.js` file 
 ```javascript
 let reversedString = reverseString("Hyago Bitencourt");
 console.log(reversedString); // Output: truotnetciB ogaayH
+```
+
+To use the `isFibonacci` function, simply include the `isFibonacci.js` file in your project and change the number value to check if the number exists in the Fibonacci sequence.
+
+```javascript
+let number = 1597;
+console.log(`O número ${number} pertence à sequência de Fibonacci.`); // Output: O número 1597 pertence à sequência de Fibonacci.
+
+

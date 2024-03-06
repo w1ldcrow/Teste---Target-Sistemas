@@ -22,7 +22,7 @@ This solution demonstrates proficiency in JavaScript programming and problem-sol
 ## Repository Structure
 
 - `reverseString.js`: JavaScript file containing the implementation of the `reverseString` function.
-- `isFibonacci`: JavaScript file containing the implementation of the `isFibonacci` function.
+- `isFibonacci.js`: JavaScript file containing the implementation of the `isFibonacci` function.
 
 ## Usage
 

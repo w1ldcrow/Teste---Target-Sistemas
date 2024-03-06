@@ -30,7 +30,7 @@ To use the `reverseString` function, simply include the `reverseString.js` file 
 
 ```javascript
 let reversedString = reverseString("Hyago Bitencourt");
-console.log(reversedString); // Output: truotnetciB ogaayH
+console.log(reversedString); // Output: truocnetiB ogayH
 ```
 
 To use the `isFibonacci` function, simply include the `isFibonacci.js` file in your project and change the number value to check if the number exists in the Fibonacci sequence.
